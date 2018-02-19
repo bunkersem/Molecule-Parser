@@ -1,0 +1,1498 @@
+[
+  {
+    "name": "Hydrogen diatomic",
+    "structure": "H2"
+  },
+  {
+    "name": "Lithium Hydride",
+    "structure": "LiH"
+  },
+  {
+    "name": "Lithium diatomic",
+    "structure": "Li2"
+  },
+  {
+    "name": "Beryllium diatomic",
+    "structure": "Be2"
+  },
+  {
+    "name": "Boron monohydride",
+    "structure": "BH"
+  },
+  {
+    "name": "Carbon diatomic",
+    "structure": "C2"
+  },
+  {
+    "name": "Cyano radical",
+    "structure": "CN"
+  },
+  {
+    "name": "Nitrogen diatomic",
+    "structure": "N2"
+  },
+  {
+    "name": "Hydroxyl radical",
+    "structure": "OH"
+  },
+  {
+    "name": "lithium oxide",
+    "structure": "LiO"
+  },
+  {
+    "name": "Carbon monoxide",
+    "structure": "CO"
+  },
+  {
+    "name": "Nitric oxide",
+    "structure": "NO"
+  },
+  {
+    "name": "oxygen diatomic anion",
+    "structure": "O2-"
+  },
+  {
+    "name": "Oxygen diatomic",
+    "structure": "O2"
+  },
+  {
+    "name": "Hydrogen fluoride",
+    "structure": "HF"
+  },
+  {
+    "name": "lithium fluoride",
+    "structure": "LiF"
+  },
+  {
+    "name": "Boron monofluoride",
+    "structure": "BF"
+  },
+  {
+    "name": "Fluoromethylidyne",
+    "structure": "CF"
+  },
+  {
+    "name": "Oxygen monofluoride",
+    "structure": "FO"
+  },
+  {
+    "name": "Fluorine diatomic",
+    "structure": "F2"
+  },
+  {
+    "name": "lithium sodium",
+    "structure": "NaLi"
+  },
+  {
+    "name": "Sodium diatomic",
+    "structure": "Na2"
+  },
+  {
+    "name": "sodium fluoride",
+    "structure": "NaF"
+  },
+  {
+    "name": "Magnesium diatomic",
+    "structure": "Mg2"
+  },
+  {
+    "name": "Aluminum diatomic",
+    "structure": "Al2"
+  },
+  {
+    "name": "Aluminum monofluoride",
+    "structure": "AlF"
+  },
+  {
+    "name": "Silicon diatomic",
+    "structure": "Si2"
+  },
+  {
+    "name": "Silicon monoxide",
+    "structure": "SiO"
+  },
+  {
+    "name": "Phosphorus diatomic",
+    "structure": "P2"
+  },
+  {
+    "name": "Phosphorus mononitride",
+    "structure": "PN"
+  },
+  {
+    "name": "Phosphorus monoxide",
+    "structure": "PO"
+  },
+  {
+    "name": "Mercapto radical",
+    "structure": "HS"
+  },
+  {
+    "name": "silicon monosulfide",
+    "structure": "SiS"
+  },
+  {
+    "name": "carbon monosulfide",
+    "structure": "CS"
+  },
+  {
+    "name": "Mononitrogen monosulfide",
+    "structure": "NS"
+  },
+  {
+    "name": "Sulfur monoxide",
+    "structure": "SO"
+  },
+  {
+    "name": "Sulfur diatomic",
+    "structure": "S2"
+  },
+  {
+    "name": "Monosulfur monofluoride",
+    "structure": "SF"
+  },
+  {
+    "name": "Hydrogen chloride",
+    "structure": "HCl"
+  },
+  {
+    "name": "Sodium Chloride",
+    "structure": "NaCl"
+  },
+  {
+    "name": "lithium chloride",
+    "structure": "LiCl"
+  },
+  {
+    "name": "Monochlorine monoxide",
+    "structure": "ClO"
+  },
+  {
+    "name": "Chlorine diatomic",
+    "structure": "Cl2"
+  },
+  {
+    "name": "Chlorine monofluoride",
+    "structure": "ClF"
+  },
+  {
+    "name": "Sodium Potassium",
+    "structure": "NaK"
+  },
+  {
+    "name": "Lithium Potassium",
+    "structure": "LiK"
+  },
+  {
+    "name": "Potassium Fluoride",
+    "structure": "KF"
+  },
+  {
+    "name": "Potassium Chloride",
+    "structure": "KCl"
+  },
+  {
+    "name": "calcium monochloride",
+    "structure": "CaCl"
+  },
+  {
+    "name": "Scandium monohydride",
+    "structure": "ScH"
+  },
+  {
+    "name": "Copper Monoxide",
+    "structure": "CuO"
+  },
+  {
+    "name": "Copper monofluoride",
+    "structure": "CuF"
+  },
+  {
+    "name": "Gallium monofluoride",
+    "structure": "GaF"
+  },
+  {
+    "name": "Germanium monoxide",
+    "structure": "GeO"
+  },
+  {
+    "name": "Selenium monofluoride",
+    "structure": "SeF"
+  },
+  {
+    "name": "hydrogen bromide",
+    "structure": "HBr"
+  },
+  {
+    "name": "Potassium Bromide",
+    "structure": "KBr"
+  },
+  {
+    "name": "Sodium Bromide",
+    "structure": "NaBr"
+  },
+  {
+    "name": "Lithium Bromide",
+    "structure": "LiBr"
+  },
+  {
+    "name": "Bromine diatomic",
+    "structure": "Br2"
+  },
+  {
+    "name": "Bromine monochloride",
+    "structure": "BrCl"
+  },
+  {
+    "name": "Bromine monofluoride",
+    "structure": "BrF"
+  },
+  {
+    "name": "Hydrogen iodide",
+    "structure": "HI"
+  },
+  {
+    "name": "Iodine monobromide",
+    "structure": "IBr"
+  },
+  {
+    "name": "beryllium dihydride",
+    "structure": "BeH2"
+  },
+  {
+    "name": "carbon trimer",
+    "structure": "C3"
+  },
+  {
+    "name": "hydrogen isocyanide",
+    "structure": "HNC"
+  },
+  {
+    "name": "Hydrogen cyanide",
+    "structure": "HCN"
+  },
+  {
+    "name": "Water",
+    "structure": "H2O"
+  },
+  {
+    "name": "lithium hydroxide",
+    "structure": "LiOH"
+  },
+  {
+    "name": "Nitrosyl hydride",
+    "structure": "HNO"
+  },
+  {
+    "name": "Boron dioxide",
+    "structure": "BO2"
+  },
+  {
+    "name": "isocyanato radical",
+    "structure": "NCO"
+  },
+  {
+    "name": "Nitrous oxide",
+    "structure": "N2O"
+  },
+  {
+    "name": "Carbon dioxide",
+    "structure": "CO2"
+  },
+  {
+    "name": "Nitrogen dioxide",
+    "structure": "NO2"
+  },
+  {
+    "name": "Ozone",
+    "structure": "O3"
+  },
+  {
+    "name": "Hypofluorous acid",
+    "structure": "HOF"
+  },
+  {
+    "name": "Cyanogen fluoride",
+    "structure": "FCN"
+  },
+  {
+    "name": "Difluoromethylene",
+    "structure": "CF2"
+  },
+  {
+    "name": "Nitrosyl fluoride",
+    "structure": "FNO"
+  },
+  {
+    "name": "Difluorine monoxide",
+    "structure": "F2O"
+  },
+  {
+    "name": "magnesium dihydride",
+    "structure": "MgH2"
+  },
+  {
+    "name": "silicon dioxide",
+    "structure": "SiO2"
+  },
+  {
+    "name": "Silicon difluoride",
+    "structure": "SiF2"
+  },
+  {
+    "name": "HCP",
+    "structure": "HCP"
+  },
+  {
+    "name": "Hydrogen sulfide",
+    "structure": "H2S"
+  },
+  {
+    "name": "hydrogen boron sulfide",
+    "structure": "HBS"
+  },
+  {
+    "name": "Carbonyl sulfide",
+    "structure": "OCS"
+  },
+  {
+    "name": "Carbon disulfide",
+    "structure": "CS2"
+  },
+  {
+    "name": "Sulfur dioxide",
+    "structure": "SO2"
+  },
+  {
+    "name": "Disulfur monoxide",
+    "structure": "SSO"
+  },
+  {
+    "name": "sulfur difluoride",
+    "structure": "SF2"
+  },
+  {
+    "name": "hypochlorous acid",
+    "structure": "HOCl"
+  },
+  {
+    "name": "chlorocyanogen",
+    "structure": "ClCN"
+  },
+  {
+    "name": "Nitrosyl chloride",
+    "structure": "ClNO"
+  },
+  {
+    "name": "Chlorine dioxide",
+    "structure": "OClO"
+  },
+  {
+    "name": "Sulfur dichloride",
+    "structure": "SCl2"
+  },
+  {
+    "name": "Titanium dioxide",
+    "structure": "TiO2"
+  },
+  {
+    "name": "Germanium difluoride",
+    "structure": "GeF2"
+  },
+  {
+    "name": "Hydrogen selenide",
+    "structure": "H2Se"
+  },
+  {
+    "name": "Carbonyl selenide",
+    "structure": "OCSe"
+  },
+  {
+    "name": "Selenium dioxide",
+    "structure": "SeO2"
+  },
+  {
+    "name": "Hypobromous acid",
+    "structure": "HOBr"
+  },
+  {
+    "name": "boron trihydride",
+    "structure": "BH3"
+  },
+  {
+    "name": "Methyl radical",
+    "structure": "CH3"
+  },
+  {
+    "name": "Acetylene",
+    "structure": "C2H2"
+  },
+  {
+    "name": "Ammonia",
+    "structure": "NH3"
+  },
+  {
+    "name": "trans-diazine",
+    "structure": "N2H2"
+  },
+  {
+    "name": "hydrogen azide",
+    "structure": "HN3"
+  },
+  {
+    "name": "Cyanogen",
+    "structure": "C2N2"
+  },
+  {
+    "name": "Formaldehyde",
+    "structure": "H2CO"
+  },
+  {
+    "name": "Hydrogen peroxide",
+    "structure": "H2O2"
+  },
+  {
+    "name": "Isocyanic acid",
+    "structure": "HNCO"
+  },
+  {
+    "name": "fulminic acid",
+    "structure": "HCNO"
+  },
+  {
+    "name": "Diboron dioxide",
+    "structure": "B2O2"
+  },
+  {
+    "name": "Fluoroacetylene",
+    "structure": "HCCF"
+  },
+  {
+    "name": "formyl fluoride",
+    "structure": "HFCO"
+  },
+  {
+    "name": "Carbonic difluoride",
+    "structure": "CF2O"
+  },
+  {
+    "name": "(Z)-Difluorodiazene",
+    "structure": "N2F2"
+  },
+  {
+    "name": "Borane, trifluoro-",
+    "structure": "BF3"
+  },
+  {
+    "name": "Nitryl fluoride",
+    "structure": "FNO2"
+  },
+  {
+    "name": "Perfluoroperoxide",
+    "structure": "FOOF"
+  },
+  {
+    "name": "Nitrogen trifluoride",
+    "structure": "NF3"
+  },
+  {
+    "name": "aluminum trihydride",
+    "structure": "AlH3"
+  },
+  {
+    "name": "Aluminum trifluoride",
+    "structure": "AlF3"
+  },
+  {
+    "name": "Silicon trifluoride radical",
+    "structure": "SiF3"
+  },
+  {
+    "name": "Phosphine",
+    "structure": "PH3"
+  },
+  {
+    "name": "Phosphorus tetramer",
+    "structure": "P4"
+  },
+  {
+    "name": "Phosphorus trifluoride",
+    "structure": "PF3"
+  },
+  {
+    "name": "Thioformaldehyde",
+    "structure": "H2CS"
+  },
+  {
+    "name": "Sulfur trioxide",
+    "structure": "SO3"
+  },
+  {
+    "name": "Difluorodisulfane",
+    "structure": "FSSF"
+  },
+  {
+    "name": "Thio-thionyl fluoride",
+    "structure": "S2F2"
+  },
+  {
+    "name": "Chloroacetylene",
+    "structure": "HCCCl"
+  },
+  {
+    "name": "Aluminum trichloride",
+    "structure": "AlCl3"
+  },
+  {
+    "name": "Phosgene",
+    "structure": "CCl2O"
+  },
+  {
+    "name": "Nitryl chloride",
+    "structure": "ClNO2"
+  },
+  {
+    "name": "Borane, trichloro-",
+    "structure": "BCl3"
+  },
+  {
+    "name": "thionyl chloride",
+    "structure": "SOCl2"
+  },
+  {
+    "name": "Phosphorus trichloride",
+    "structure": "PCl3"
+  },
+  {
+    "name": "Chlorine trifluoride",
+    "structure": "ClF3"
+  },
+  {
+    "name": "Arsine",
+    "structure": "AsH3"
+  },
+  {
+    "name": "Arsenous trichloride",
+    "structure": "AsCl3"
+  },
+  {
+    "name": "Arsenic trifluoride",
+    "structure": "AsF3"
+  },
+  {
+    "name": "Phosphorus tribromide",
+    "structure": "PBr3"
+  },
+  {
+    "name": "Bromine trifluoride",
+    "structure": "BrF3"
+  },
+  {
+    "name": "Methane",
+    "structure": "CH4"
+  },
+  {
+    "name": "Methanimine",
+    "structure": "CH2NH"
+  },
+  {
+    "name": "cyanamide",
+    "structure": "NH2CN"
+  },
+  {
+    "name": "diazomethane",
+    "structure": "CH2NN"
+  },
+  {
+    "name": "Cyanoacetylene",
+    "structure": "HCCCN"
+  },
+  {
+    "name": "hydroxylamine",
+    "structure": "NH2OH"
+  },
+  {
+    "name": "Ketene",
+    "structure": "CH2CO"
+  },
+  {
+    "name": "Dioxirane",
+    "structure": "CH2O2"
+  },
+  {
+    "name": "Formic acid",
+    "structure": "HCOOH"
+  },
+  {
+    "name": "Nitric acid",
+    "structure": "HNO3"
+  },
+  {
+    "name": "Carbon suboxide",
+    "structure": "C3O2"
+  },
+  {
+    "name": "Dinitrogen trioxide",
+    "structure": "N2O3"
+  },
+  {
+    "name": "Methyl fluoride",
+    "structure": "CH3F"
+  },
+  {
+    "name": "Methane, difluoro-",
+    "structure": "CH2F2"
+  },
+  {
+    "name": "Methane, trifluoro-",
+    "structure": "CHF3"
+  },
+  {
+    "name": "Carbon tetrafluoride",
+    "structure": "CF4"
+  },
+  {
+    "name": "Silane",
+    "structure": "SiH4"
+  },
+  {
+    "name": "monofluorosilane",
+    "structure": "SiH3F"
+  },
+  {
+    "name": "Silicon tetrafluoride",
+    "structure": "SiF4"
+  },
+  {
+    "name": "H2CPH",
+    "structure": "CH2PH"
+  },
+  {
+    "name": "Phosphoryl fluoride",
+    "structure": "F3PO"
+  },
+  {
+    "name": "Sulfuryl fluoride",
+    "structure": "SO2F2"
+  },
+  {
+    "name": "Sulfur tetrafluoride",
+    "structure": "SF4"
+  },
+  {
+    "name": "chlorosilane",
+    "structure": "SiH3Cl"
+  },
+  {
+    "name": "Methyl chloride",
+    "structure": "CH3Cl"
+  },
+  {
+    "name": "Methylene chloride",
+    "structure": "CH2Cl2"
+  },
+  {
+    "name": "dichlorosilane",
+    "structure": "SiH2Cl2"
+  },
+  {
+    "name": "fluorochloromethane",
+    "structure": "CH2FCl"
+  },
+  {
+    "name": "Chloroform",
+    "structure": "CHCl3"
+  },
+  {
+    "name": "fluorodichloromethane",
+    "structure": "CHFCl2"
+  },
+  {
+    "name": "Trichlorosilane",
+    "structure": "SiHCl3"
+  },
+  {
+    "name": "Chlorine nitrate",
+    "structure": "ClONO2"
+  },
+  {
+    "name": "Silane, tetrachloro-",
+    "structure": "SiCl4"
+  },
+  {
+    "name": "Sulfuryl chloride",
+    "structure": "SO2Cl2"
+  },
+  {
+    "name": "Perchloryl fluoride",
+    "structure": "ClFO3"
+  },
+  {
+    "name": "Trichloromonofluoromethane",
+    "structure": "CFCl3"
+  },
+  {
+    "name": "difluorodichloromethane",
+    "structure": "CF2Cl2"
+  },
+  {
+    "name": "Methane, chlorotrifluoro-",
+    "structure": "CF3Cl"
+  },
+  {
+    "name": "Carbon tetrachloride",
+    "structure": "CCl4"
+  },
+  {
+    "name": "methyl bromide",
+    "structure": "CH3Br"
+  },
+  {
+    "name": "bromosilane",
+    "structure": "SiH3Br"
+  },
+  {
+    "name": "dibromomethane",
+    "structure": "CH2Br2"
+  },
+  {
+    "name": "Methane, bromofluoro-",
+    "structure": "CH2BrF"
+  },
+  {
+    "name": "fluorochlorobromomethane",
+    "structure": "CHFClBr"
+  },
+  {
+    "name": "Methane, bromodifluoro-",
+    "structure": "CHBrF2"
+  },
+  {
+    "name": "bromoform",
+    "structure": "CHBr3"
+  },
+  {
+    "name": "Methane, dibromodifluoro-",
+    "structure": "CBr2F2"
+  },
+  {
+    "name": "Bromotrifluoromethane",
+    "structure": "CF3Br"
+  },
+  {
+    "name": "Carbon tetrabromide",
+    "structure": "CBr4"
+  },
+  {
+    "name": "methyl iodide",
+    "structure": "CH3I"
+  },
+  {
+    "name": "trifluoroiodomethane",
+    "structure": "CF3I"
+  },
+  {
+    "name": "Ethylene",
+    "structure": "C2H4"
+  },
+  {
+    "name": "Diacetylene",
+    "structure": "C4H2"
+  },
+  {
+    "name": "Hydrazine",
+    "structure": "N2H4"
+  },
+  {
+    "name": "methyl isocyanide",
+    "structure": "CH3NC"
+  },
+  {
+    "name": "Acetonitrile",
+    "structure": "CH3CN"
+  },
+  {
+    "name": "Methyl alcohol",
+    "structure": "CH3OH"
+  },
+  {
+    "name": "formaldoxime",
+    "structure": "CH2NOH"
+  },
+  {
+    "name": "formamide",
+    "structure": "CHONH2"
+  },
+  {
+    "name": "peroxy nitric acid",
+    "structure": "HOONO2"
+  },
+  {
+    "name": "Dinitrogen tetroxide",
+    "structure": "N2O4"
+  },
+  {
+    "name": "Ethene, fluoro-",
+    "structure": "CH2CHF"
+  },
+  {
+    "name": "Ethene, 1,1-difluoro-",
+    "structure": "CH2CF2"
+  },
+  {
+    "name": "Ethene, 1,2-difluoro-, (Z)-",
+    "structure": "C2H2F2"
+  },
+  {
+    "name": "Trifluoroethylene",
+    "structure": "C2HF3"
+  },
+  {
+    "name": "Acetonitrile, trifluoro-",
+    "structure": "CF3CN"
+  },
+  {
+    "name": "Diboron tetrafluoride",
+    "structure": "B2F4"
+  },
+  {
+    "name": "Tetrafluoroethylene",
+    "structure": "C2F4"
+  },
+  {
+    "name": "Phosphorus pentafluoride",
+    "structure": "PF5"
+  },
+  {
+    "name": "Methanethiol",
+    "structure": "CH3SH"
+  },
+  {
+    "name": "Ethene, chloro-",
+    "structure": "CH2CHCl"
+  },
+  {
+    "name": "Ethene, 1,1-dichloro-",
+    "structure": "CH2CCl2"
+  },
+  {
+    "name": "Ethene, 1,2-dichloro-, (Z)-",
+    "structure": "CHClCHCl"
+  },
+  {
+    "name": "Diboron tetrachloride",
+    "structure": "B2Cl4"
+  },
+  {
+    "name": "Tetrachloroethylene",
+    "structure": "C2Cl4"
+  },
+  {
+    "name": "Phosphorus pentachloride",
+    "structure": "PCl5"
+  },
+  {
+    "name": "Methane selenol",
+    "structure": "CH3SeH"
+  },
+  {
+    "name": "vinyl bromide",
+    "structure": "C2H3Br"
+  },
+  {
+    "name": "bromine pentafluoride",
+    "structure": "BrF5"
+  },
+  {
+    "name": "allene",
+    "structure": "CH2CCH2"
+  },
+  {
+    "name": "cyclopropene",
+    "structure": "C3H4"
+  },
+  {
+    "name": "propyne",
+    "structure": "CH3CCH"
+  },
+  {
+    "name": "methyl amine",
+    "structure": "CH3NH2"
+  },
+  {
+    "name": "acrylonitrile",
+    "structure": "C3H3N"
+  },
+  {
+    "name": "Malononitrile",
+    "structure": "C3H2N2"
+  },
+  {
+    "name": "Acetaldehyde",
+    "structure": "CH3CHO"
+  },
+  {
+    "name": "Ethylene oxide",
+    "structure": "C2H4O"
+  },
+  {
+    "name": "Methane, nitro-",
+    "structure": "CH3NO2"
+  },
+  {
+    "name": "Methyl nitrite",
+    "structure": "CH3ONO"
+  },
+  {
+    "name": "Acetyl fluoride",
+    "structure": "CH3COF"
+  },
+  {
+    "name": "Methyl phosphine",
+    "structure": "CH3PH2"
+  },
+  {
+    "name": "Thiirane",
+    "structure": "C2H4S"
+  },
+  {
+    "name": "Sulfuric acid",
+    "structure": "H2SO4"
+  },
+  {
+    "name": "Sulfur Hexafluoride",
+    "structure": "SF6"
+  },
+  {
+    "name": "Acetyl Chloride",
+    "structure": "CH3COCl"
+  },
+  {
+    "name": "Ethane",
+    "structure": "C2H6"
+  },
+  {
+    "name": "1-Buten-3-yne",
+    "structure": "C2H3CCH"
+  },
+  {
+    "name": "borane ammonia",
+    "structure": "BH3NH3"
+  },
+  {
+    "name": "Ammonia Dimer",
+    "structure": "NH3NH3"
+  },
+  {
+    "name": "N-methylmethanimine",
+    "structure": "CH2NCH3"
+  },
+  {
+    "name": "ethanimine",
+    "structure": "CH3CHNH"
+  },
+  {
+    "name": "Acrolein",
+    "structure": "CH2CHCHO"
+  },
+  {
+    "name": "methyl formate",
+    "structure": "CH3OCHO"
+  },
+  {
+    "name": "hydroxy acetaldehyde",
+    "structure": "CHOCH2OH"
+  },
+  {
+    "name": "Urea",
+    "structure": "NH2CONH2"
+  },
+  {
+    "name": "Acetic acid",
+    "structure": "CH3COOH"
+  },
+  {
+    "name": "Oxazole",
+    "structure": "C3H3NO"
+  },
+  {
+    "name": "Methyl nitrate",
+    "structure": "CH3NO3"
+  },
+  {
+    "name": "fluoroethane",
+    "structure": "C2H5F"
+  },
+  {
+    "name": "Ethane, 1,1-difluoro-",
+    "structure": "CH3CHF2"
+  },
+  {
+    "name": "Ethane, 1,1,1-trifluoro-",
+    "structure": "CH3CF3"
+  },
+  {
+    "name": "trifluoroacetic acid",
+    "structure": "CF3COOH"
+  },
+  {
+    "name": "hexafluoroethane",
+    "structure": "C2F6"
+  },
+  {
+    "name": "methyl silane",
+    "structure": "CH3SiH3"
+  },
+  {
+    "name": "Ethyl chloride",
+    "structure": "CH3CH2Cl"
+  },
+  {
+    "name": "Ethane, 1,1-dichloro-",
+    "structure": "CH3CHCl2"
+  },
+  {
+    "name": "Ethane, 1,1,1-trichloro-",
+    "structure": "CH3CCl3"
+  },
+  {
+    "name": "1,1,2-trichloroethane",
+    "structure": "CH2ClCHCl2"
+  },
+  {
+    "name": "1-Chloro-1,1-Difluoroethane",
+    "structure": "CH3CF2Cl"
+  },
+  {
+    "name": "pentafluorochloroethane",
+    "structure": "CF3CF2Cl"
+  },
+  {
+    "name": "methyl germane",
+    "structure": "GeH3CH3"
+  },
+  {
+    "name": "Ethyl bromide",
+    "structure": "C2H5Br"
+  },
+  {
+    "name": "Ethane, 1,2-dibromo-",
+    "structure": "CH2BrCH2Br"
+  },
+  {
+    "name": "Propene",
+    "structure": "CH2CHCH3"
+  },
+  {
+    "name": "Cyclopropane",
+    "structure": "C3H6"
+  },
+  {
+    "name": "ethyl cyanide",
+    "structure": "C2H5CN"
+  },
+  {
+    "name": "1,3,5-Triazine",
+    "structure": "C3H3N3"
+  },
+  {
+    "name": "Dimethyl ether",
+    "structure": "CH3OCH3"
+  },
+  {
+    "name": "Ethanol",
+    "structure": "CH3CH2OH"
+  },
+  {
+    "name": "Acetamide",
+    "structure": "CH3CONH2"
+  },
+  {
+    "name": "Acetaldoxime",
+    "structure": "CH3CHNOH"
+  },
+  {
+    "name": "Furan",
+    "structure": "C4H4O"
+  },
+  {
+    "name": "β–Propiolactone",
+    "structure": "C3H4O2"
+  },
+  {
+    "name": "ethanethiol",
+    "structure": "CH3CH2SH"
+  },
+  {
+    "name": "Dimethyl sulfide",
+    "structure": "CH3SCH3"
+  },
+  {
+    "name": "Thiophene",
+    "structure": "C4H4S"
+  },
+  {
+    "name": "dimethylselenide",
+    "structure": "CH3SeCH3"
+  },
+  {
+    "name": "1,2-Butadiene",
+    "structure": "CH2CCHCH3"
+  },
+  {
+    "name": "2-Butyne",
+    "structure": "CH3CCCH3"
+  },
+  {
+    "name": "Cyclobutene",
+    "structure": "C4H6"
+  },
+  {
+    "name": "1-Butyne",
+    "structure": "CHCCH2CH3"
+  },
+  {
+    "name": "Dimethylamine",
+    "structure": "CH3NHCH3"
+  },
+  {
+    "name": "Ethylamine",
+    "structure": "CH3CH2NH2"
+  },
+  {
+    "name": "Pyrrole",
+    "structure": "C4H5N"
+  },
+  {
+    "name": "Pyrazine",
+    "structure": "C4H4N2"
+  },
+  {
+    "name": "Oxetane",
+    "structure": "C3H6O"
+  },
+  {
+    "name": "Propanal",
+    "structure": "CH3CH2CHO"
+  },
+  {
+    "name": "Acetone",
+    "structure": "CH3COCH3"
+  },
+  {
+    "name": "Methoxyacetonitrile",
+    "structure": "CH3OCH2CN"
+  },
+  {
+    "name": "Glycine",
+    "structure": "H2NCH2COOH"
+  },
+  {
+    "name": "Thietane",
+    "structure": "C3H6S"
+  },
+  {
+    "name": "Dimethyl sulfoxide",
+    "structure": "CH3SOCH3"
+  },
+  {
+    "name": "i-propyl bromide",
+    "structure": "CH3CHBrCH3"
+  },
+  {
+    "name": "n-propyl bromide",
+    "structure": "CH3CH2CH2Br"
+  },
+  {
+    "name": "Propane",
+    "structure": "C3H8"
+  },
+  {
+    "name": "Cyclopropylacetylene",
+    "structure": "C5H6"
+  },
+  {
+    "name": "Cyclopropylamine",
+    "structure": "C3H7N"
+  },
+  {
+    "name": "Pyridine",
+    "structure": "C5H5N"
+  },
+  {
+    "name": "Vinyl ether",
+    "structure": "CH2CHOCHCH2"
+  },
+  {
+    "name": "Cyclobutanone",
+    "structure": "C4H6O"
+  },
+  {
+    "name": "2-Butenal",
+    "structure": "CHOCHCHCH3"
+  },
+  {
+    "name": "Ethyl formate",
+    "structure": "HCOOC2H5"
+  },
+  {
+    "name": "methyl acetate",
+    "structure": "CH3COOCH3"
+  },
+  {
+    "name": "Nitric acid, ethyl ester",
+    "structure": "C2H5NO3"
+  },
+  {
+    "name": "furfural",
+    "structure": "C5H4O2"
+  },
+  {
+    "name": "dimethylsilane",
+    "structure": "SiH2(CH3)2"
+  },
+  {
+    "name": "Divinyl sulfide",
+    "structure": "CH2CHSCHCH2"
+  },
+  {
+    "name": "Thiophene, 2,5-dihydro-",
+    "structure": "C4H6S"
+  },
+  {
+    "name": "Dimethyl sulfone",
+    "structure": "C2H6O2S"
+  },
+  {
+    "name": "Propane, 2-chloro-",
+    "structure": "CH3CHClCH3"
+  },
+  {
+    "name": "Propane, 1-chloro-",
+    "structure": "CH2ClCH2CH3"
+  },
+  {
+    "name": "Propane, 2,2-dichloro-",
+    "structure": "CH3CCl2CH3"
+  },
+  {
+    "name": "1-Butene",
+    "structure": "CH2CHCH2CH3"
+  },
+  {
+    "name": "1-Propene, 2-methyl-",
+    "structure": "CH2C(CH3)CH3"
+  },
+  {
+    "name": "Benzene",
+    "structure": "C6H6"
+  },
+  {
+    "name": "Ethylenediamine",
+    "structure": "C2H8N2"
+  },
+  {
+    "name": "Butanenitrile",
+    "structure": "CH3CH2CH2CN"
+  },
+  {
+    "name": "1-Propanol",
+    "structure": "C3H7OH"
+  },
+  {
+    "name": "Isopropyl alcohol",
+    "structure": "CH3CHOHCH3"
+  },
+  {
+    "name": "Ethane, methoxy-",
+    "structure": "CH3OC2H5"
+  },
+  {
+    "name": "dimethylformamide",
+    "structure": "C3H7NO"
+  },
+  {
+    "name": "1,3,5-Trioxane",
+    "structure": "C3H6O3"
+  },
+  {
+    "name": "Fluorobenzene",
+    "structure": "C6H5F"
+  },
+  {
+    "name": "metadifluorobenzene",
+    "structure": "C6H4F2"
+  },
+  {
+    "name": "Sulfurous acid, dimethyl ester",
+    "structure": "C2H6O3S"
+  },
+  {
+    "name": "chlorobenzene",
+    "structure": "C6H5Cl"
+  },
+  {
+    "name": "bromobenzene",
+    "structure": "C6H5Br"
+  },
+  {
+    "name": "Cyclopentene",
+    "structure": "C5H8"
+  },
+  {
+    "name": "1-Propanamine",
+    "structure": "NH2CH2CH2CH3"
+  },
+  {
+    "name": "2-Propanamine",
+    "structure": "CH3CH(NH2)CH3"
+  },
+  {
+    "name": "Trimethylamine",
+    "structure": "N(CH3)3"
+  },
+  {
+    "name": "phenyl cyanide",
+    "structure": "C6H5CN"
+  },
+  {
+    "name": "2-Butanone",
+    "structure": "CH3COCH2CH3"
+  },
+  {
+    "name": "Furan, tetrahydro-",
+    "structure": "C4H8O"
+  },
+  {
+    "name": "Butanal",
+    "structure": "CHOCH2CH2CH3"
+  },
+  {
+    "name": "phenol",
+    "structure": "C6H5OH"
+  },
+  {
+    "name": "trimethyl arsine",
+    "structure": "As(CH3)3"
+  },
+  {
+    "name": "Isobutane",
+    "structure": "CH3CH(CH3)CH3"
+  },
+  {
+    "name": "phenylacetylene",
+    "structure": "C6H5CCH"
+  },
+  {
+    "name": "aniline",
+    "structure": "C6H5NH2"
+  },
+  {
+    "name": "Cyclopentanone",
+    "structure": "C5H8O"
+  },
+  {
+    "name": "Ethyl acetate",
+    "structure": "C4H8O2"
+  },
+  {
+    "name": "benzaldehyde",
+    "structure": "C6H5CHO"
+  },
+  {
+    "name": "Nitrobenzene",
+    "structure": "C6H5NO2"
+  },
+  {
+    "name": "Butane, 2-chloro-",
+    "structure": "CH3CHClCH2CH3"
+  },
+  {
+    "name": "Butane, 1-chloro-",
+    "structure": "CH2ClCH2CH2CH3"
+  },
+  {
+    "name": "Propane, 2-chloro-2-methyl-",
+    "structure": "CH3CCl(CH3)CH3"
+  },
+  {
+    "name": "1-pentene",
+    "structure": "CH2CHCH2CH2CH3"
+  },
+  {
+    "name": "toluene",
+    "structure": "C6H5CH3"
+  },
+  {
+    "name": "Pentanenitrile",
+    "structure": "C5H9N"
+  },
+  {
+    "name": "Ethoxy ethane",
+    "structure": "C4H10O"
+  },
+  {
+    "name": "Acetylacetone",
+    "structure": "C5H8O2"
+  },
+  {
+    "name": "Diethyl sulfide",
+    "structure": "C2H5SC2H5"
+  },
+  {
+    "name": "cyclohexene",
+    "structure": "C6H10"
+  },
+  {
+    "name": "cubane",
+    "structure": "C8H8"
+  },
+  {
+    "name": "2H-Pyran, tetrahydro-",
+    "structure": "C5H10O"
+  },
+  {
+    "name": "Anisole",
+    "structure": "C6H5OCH3"
+  },
+  {
+    "name": "2H-Thiopyran, tetrahydro-",
+    "structure": "C5H10S"
+  },
+  {
+    "name": "Piperidine",
+    "structure": "C5H11N"
+  },
+  {
+    "name": "cyclohexanone",
+    "structure": "C6H10O"
+  },
+  {
+    "name": "acetophenone",
+    "structure": "CH3COC6H5"
+  },
+  {
+    "name": "tetramethylsilane",
+    "structure": "Si(CH3)4"
+  },
+  {
+    "name": "Pentane, 1-chloro-",
+    "structure": "C5H11Cl"
+  },
+  {
+    "name": "Ethylbenzene",
+    "structure": "C6H5CH2CH3"
+  },
+  {
+    "name": "Azulene",
+    "structure": "C10H8"
+  },
+  {
+    "name": "Norbornane",
+    "structure": "C7H12"
+  },
+  {
+    "name": "di-n-propyl ether",
+    "structure": "C3H7OC3H7"
+  }
+]
